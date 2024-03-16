@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\GitHub\c++\LM\LM\MyForm.cpp(6,33): warning C4829: Möglicherweise falsche Parameter für Main-Funktion. Verwenden Sie eventuell "int main(Platform::Array<Platform::String^>^ args)".
+  MyForm.obj : MSIL-Modulgefunden; inkrementelles Verknüpfen wird für MSIL deaktiviert; vollständiger Link wird durchgeführt
+  LM.vcxproj -> D:\GitHub\c++\LM\x64\Debug\LM.exe

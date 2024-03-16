@@ -1,0 +1,3 @@
+D:\GitHub\c++\LM\LM\x64\Debug\LM.vcxproj.AssemblyReference.cache
+D:\GitHub\c++\LM\LM\x64\Debug\LM.MyForm.resources
+D:\GitHub\c++\LM\LM\x64\Debug\LM.vcxproj.GenerateResource.cache
