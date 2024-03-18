@@ -15,7 +15,9 @@ This project presents a graphical user interface (GUI) developed using Microsoft
 - **Sell**: Facilitates book sales management, stock updates, and transaction tracking if the library sells books.
   
 - **Borrow**: Handles borrowing processes including lending books to students, tracking due dates, and managing returns.
-
+## Additional Features
+In addition to the main functionalities, an extra form has been created specifically for adding new students to the system.
+![Digram](doc/add_students.png)
 ## Usage
 
 To run the application, open the solution file in Microsoft Visual Studio, build the project, and run the executable.
