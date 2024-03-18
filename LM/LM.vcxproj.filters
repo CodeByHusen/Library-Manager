@@ -18,9 +18,15 @@
     <ClCompile Include="MyForm.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="MyForm1.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyForm.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="MyForm1.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>

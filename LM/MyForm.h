@@ -1,4 +1,5 @@
 #pragma once
+#include "MyForm1.h"
 
 namespace LM {
 
@@ -2228,6 +2229,8 @@ private: System::Void button11_Click(System::Object^ sender, System::EventArgs^ 
 }
 
 private: System::Void button16_Click(System::Object^ sender, System::EventArgs^ e) {
+	MyForm1^ frm1 = gcnew MyForm1;
+	frm1->Show();
 }
 private: System::Void panel12_Paint(System::Object^ sender, System::Windows::Forms::PaintEventArgs^ e) {
 }
