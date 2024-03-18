@@ -5,7 +5,7 @@ This project presents a graphical user interface (GUI) developed using Microsoft
 ## Features
 
 - **Home**: Displays general information about the library, including opening hours, news, and upcoming events.
-  
+  ![Digram](doc/home.png)
 - **Students**: Manages student-related tasks such as registration, updating student details, and viewing borrowing histories.
   
 - **Books**: Enables users to search the library catalog, add new books, edit existing entries, and remove them. Provides details like title, author, genre, and availability.
